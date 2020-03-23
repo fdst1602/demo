@@ -1,4 +1,4 @@
-{
+[
     {
         "id": 1,
         "name": "Francisco",
@@ -13,11 +13,11 @@
         "email": "Mariaemail@gmail.pt",
         "website": "websiteInfoM.org"
     },
-      {
+    {
         "id": 3,
         "name": "Kirsten",
         "username": "Kirs",
         "email": "Kirstenemail@gmail.uk",
         "website": "websiteInfoK.org"
     }
-}
+]
