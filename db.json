@@ -1,4 +1,4 @@
-[
+{
     {
         "id": 1,
         "name": "Francisco",
@@ -19,5 +19,5 @@
         "username": "Kirs",
         "email": "Kirstenemail@gmail.uk",
         "website": "websiteInfoK.org"
-    },
-]
+    }
+}
