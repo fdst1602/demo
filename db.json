@@ -1,11 +1,15 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Francisco"
+    },
+    {
+      "id": 2,
+      "title": "Maria"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "restaurants": {
+    "name": "dominos"
   }
 }
