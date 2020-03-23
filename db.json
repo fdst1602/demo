@@ -1,15 +1,24 @@
 {
   "users": [
     {
-      "id": 1,
-      "title": "Francisco"
+      "userId": 1,
+      "userName": "Francisco",
+      "city": "Lisbon"
     },
     {
-      "id": 2,
-      "title": "Maria"
+      "userId": 2,
+      "userName": "Maria",
+      "city": "London"
     }
   ],
-  "restaurants": {
-    "name": "dominos"
-  }
+  "restaurants": [
+    {
+      "siteId": "Restaurant 1",
+      "siteName": "Dominos"
+    },
+    {
+      "siteId": "Restaurant 2",
+      "siteName": "Pizza Hut"
+    }  
+  ]
 }
